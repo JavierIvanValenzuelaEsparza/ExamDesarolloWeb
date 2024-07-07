@@ -1,0 +1,38 @@
+# Virtualenv
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Django generated files
+__pycache__
+db.sqlite3
+.DS_Store
+
+# Local development settings
+*.env
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Yarn
+yarn-error.log
+.yarn-integrity
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
